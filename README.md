@@ -103,4 +103,4 @@ This library is [published on NPM](https://www.npmjs.com/package/ts-xors).
 
 ## Licence
 
-Distributed under the MIT license. See [`LICENSE.md`](./LICENCE.md) for more information.
+Distributed under the MIT license. See [`LICENSE.md`](https://github.com/Timeo1210/ts-xors/blob/master/LICENSE.md) for more information.

@@ -1,6 +1,6 @@
 {
   "name": "ts-xors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compose custom types containing multiple mutually exclusive type.",
   "main": "src/index.ts",
   "scripts": {
@@ -22,7 +22,7 @@
     "keys"
   ],
   "author": "Timeo1210",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Timeo1210/ts-xors/issues"
   },
