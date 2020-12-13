@@ -1,0 +1,30 @@
+{
+  "name": "ts-xors",
+  "version": "1.0.1",
+  "description": "Compose custom types containing multiple mutually exclusive type.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timeo1210/ts-xors.git"
+  },
+  "keywords": [
+    "typescript",
+    "custom",
+    "types",
+    "xor",
+    "xors",
+    "multiple",
+    "mutually",
+    "exclusive",
+    "keys"
+  ],
+  "author": "Timeo1210",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timeo1210/ts-xors/issues"
+  },
+  "homepage": "https://github.com/Timeo1210/ts-xors#readme"
+}
